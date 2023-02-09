@@ -38,6 +38,6 @@
 ### <p>A Calculadora é um projeto simples, porém muito útil, que pode ser usado como base para construção de outros projetos mais complexos envolvendo HTML, CSS e JavaScript. Além disso, é uma ótima oportunidade para aprender sobre essas tecnologias.</p>
 
 
-# Link para testar o codigo:
-
+# Link para testar o codigo 🖖:
+    https://eloquent-salmiakki-6b915b.netlify.app/
     
